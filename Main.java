@@ -1,7 +1,7 @@
 /*
-Name: [Your Name]
-PRN: [Your PRN]
-Batch: [Your Batch]
+Name: Ranveer Singh
+PRN: 23070126102
+Batch: AIML B1
 */
 
 import java.util.Scanner;
